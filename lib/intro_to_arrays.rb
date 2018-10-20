@@ -3,5 +3,5 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  new_array = [one, two]
+  @my_two_array = [one, two]
 end
