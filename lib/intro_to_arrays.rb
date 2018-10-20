@@ -5,3 +5,7 @@ end
 def array_with_two_elements
   @my_two_array = ["one", "two"]
 end
+
+def first_element(element)
+  element[0]
+end
